@@ -1,0 +1,5 @@
+## Assignment
+
+## Requires
+- SBT
+- Scala
